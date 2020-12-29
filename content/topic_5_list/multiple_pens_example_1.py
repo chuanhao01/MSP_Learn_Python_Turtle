@@ -19,6 +19,4 @@ print(pens)
 for pen in pens: # This for loop is saying for each pen in pens
     pen.forward(100)
 
-# Let say for each pen we want it to rotate to a different direction
-
 turtle.exitonclick() # For VSCODE so it does not immdeiately close
