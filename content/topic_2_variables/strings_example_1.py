@@ -1,5 +1,6 @@
 # Variables are just some name for some value
 # Let's start with string, which is just some text
+# "=" operator means assignment
 msg = "Hello, I am "
 
 # Why variables?

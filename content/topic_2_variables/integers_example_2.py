@@ -4,7 +4,6 @@ b = 2
 
 # Addition
 # "+" operator for integers mean addition
-# TODO: a += b and other stuff
 print(a + b)
 
 # Sub
