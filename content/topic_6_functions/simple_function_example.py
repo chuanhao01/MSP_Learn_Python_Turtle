@@ -53,4 +53,4 @@ def draw_square():
 # As such you can see in either scenario, the square is drawn when a function is called
 draw_square()
 
-turtle.Screen().exitonclick()
+turtle.exitonclick() # For VSCODE so it does not immdeiately close
