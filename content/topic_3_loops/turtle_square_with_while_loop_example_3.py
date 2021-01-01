@@ -10,7 +10,7 @@ pen = turtle.Turtle()
 square_width = 50
 
 # Instead of using a for loop, let's use a while loop
-# while loop is used to repeat code until a condition is met / true
+# while loop is used to repeat code while a condition is true
 num_sides_drawn = 0
 # We can use the same process to draw a square
 # What would be the condition that would tell us that the square is drawn?

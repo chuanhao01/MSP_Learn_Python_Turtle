@@ -14,6 +14,7 @@ square_width = 50
 for i in range(4): # number in range determines number of times we want to loop to repeat
     pen.forward(square_width)
     pen.right(90)
+    print(i)
 
 # using loops can save a lot of repetition & redundancy of code, making code shorter
 

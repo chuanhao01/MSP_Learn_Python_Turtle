@@ -12,6 +12,8 @@ print(msg + "Sally")
 # instead of the direct string "Hello I am" in the print statements above
 # thus, there was no need to keep typing "Hello I am"
 
-# the "+" operator concatenates two strings together, basically combines two strings together
-print("a" + "b") # should print "ab" in the console
-
+# Concatenation can be done in conjunction with assignment
+msg = msg + "David" 
+# Take current string value of variable msg and combine it with the string "David"
+# Use that new combined string and assign it to the variable msg
+print(msg) # Should output "Hello, I am David" in the console

@@ -1,6 +1,7 @@
 import turtle
 
 pen = turtle.Turtle()
+pen.speed("slowest")
 
 # Let's draw something a little more interesting, a 2d grid of squares
 # How would you draw a grid of squares?
